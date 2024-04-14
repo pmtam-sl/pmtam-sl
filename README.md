@@ -1,22 +1,47 @@
-<h1>Hi, I'm Tam Pham! <br/><a href="https://github.com/pmtam-sl">Project Manager</a>, <a href="https://www.linkedin.com/in/pmtam/">Business Analytics</a>, </h1>
+<h1>Hi, I'm Tam Pham! <br/><a href="https://github.com/pmtam-sl">Project Manager</a>, <a href="https://www.linkedin.com/in/pmtam/">Business Analytics</a> </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Transitioning to Business Analytics:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+Acquire knowledge and skills on Data Analytics and Data Science from LinkedIn Learning and Coursera. Key achievements:
+
+•	<b>General skills:</b> Statistical Analytics, Data Visualization, Data Preparation, Exploratory Data Analytics (EDA), Predictive Analytics (PRA), Machine Learning.
+•	Technical skill: IBM SPSS, R Programming, Python, Tableau.
+•	Algorithms for Machine Learning: Linear Regression, Logistics Regression, Decision Tree, Random Forest, XGBoost, SVM, kNN.
+•	Statistical Analytics: Inferential Statistics
+•	Fraud Detection – estimating ROI with ML 
+•	Operational Excellence
+•	Data Visualization projects (in Tableau):
+•	Vietnam Insurance Market Overview
+•	Executive Committee Dashboard
+•	Agency Sales Dashboard
+•	EDA and PRA presentation (with SPSS):
+•	Policy Lapse Prediction using SPSS
+•	Telco Customer Churn Prediction using SPSS 
+•	Machine Learning with R Programing, Python Programing:
+•	Policy Lapse Prediction, Customer Churn Prediction, Employee Attrition Prediction.
+
+- <b>[Operational Excellence](https://1drv.ms/b/s!AiFHj1NlEbBbgZkF-UTsX-Fqd3JtZA)</b>
+- <b>Statistical Analytics:</b>
+  - [Inferential Statistics](https://1drv.ms/b/s!AiFHj1NlEbBbgZkOAeQ2dSp-JNHugg)
+  - [Fraud Detection – estimating ROI with ML](https://1drv.ms/b/s!AiFHj1NlEbBbgaR1J461XRn9yRNlzA?e=7g7g6k)
+- <b>Data Visualization projects (in Tableau)</b>
+  - [Vietnam Insurance Market Overview](https://public.tableau.com/views/QuickViewSep2020/QuickViewDB?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+  - [Executive Committee Dashboard](https://public.tableau.com/views/EXCO5/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+  - [Agency Sales Dashboard](https://public.tableau.com/views/SalesDashboard_16279817899830/AgencySales?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
+- <b>EDA and PRA presentation with SPSS</b>
+  - [Policy Lapse Prediction](https://1drv.ms/b/s!AiFHj1NlEbBbgZta2c9lDPY3A04NaQ?e=n9G0Bk)
+  - [Telco Customer Churn Prediction](https://1drv.ms/b/s!AiFHj1NlEbBbgZtWT1-DpNOUhv3znQ?e=rDgzCg)
+- <b>Machine Learning with R Programing, Python Programing</b>
+  - [Policy Lapse Prediction](http://rpubs.com/pmtam/LapsePrediction_Tidymodels)
+  - [Customer Churn Prediction]((http://rpubs.com/pmtam/CustomerChurn))
+  - [Employee Attrition Prediction]()
+
+
+<h2>👨‍💻 Project Management and PMO works</h2>
+
+<h3></h3>
+
+<h3></h3>
 
 <h2>📺 Popular YouTube Videos</h2>
 
