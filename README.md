@@ -4,22 +4,6 @@
 
 Acquire knowledge and skills on Data Analytics and Data Science from LinkedIn Learning and Coursera. Key achievements:
 
-•	<b>General skills:</b> Statistical Analytics, Data Visualization, Data Preparation, Exploratory Data Analytics (EDA), Predictive Analytics (PRA), Machine Learning.
-•	Technical skill: IBM SPSS, R Programming, Python, Tableau.
-•	Algorithms for Machine Learning: Linear Regression, Logistics Regression, Decision Tree, Random Forest, XGBoost, SVM, kNN.
-•	Statistical Analytics: Inferential Statistics
-•	Fraud Detection – estimating ROI with ML 
-•	Operational Excellence
-•	Data Visualization projects (in Tableau):
-•	Vietnam Insurance Market Overview
-•	Executive Committee Dashboard
-•	Agency Sales Dashboard
-•	EDA and PRA presentation (with SPSS):
-•	Policy Lapse Prediction using SPSS
-•	Telco Customer Churn Prediction using SPSS 
-•	Machine Learning with R Programing, Python Programing:
-•	Policy Lapse Prediction, Customer Churn Prediction, Employee Attrition Prediction.
-
 - <b>[Operational Excellence](https://1drv.ms/b/s!AiFHj1NlEbBbgZkF-UTsX-Fqd3JtZA)</b>
 - <b>Statistical Analytics:</b>
   - [Inferential Statistics](https://1drv.ms/b/s!AiFHj1NlEbBbgZkOAeQ2dSp-JNHugg)
