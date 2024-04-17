@@ -24,7 +24,7 @@ Acquire knowledge and skills on Data Analytics and Data Science from LinkedIn Le
   - [Employee Attrition Prediction]()
 
 
-<h2>👨‍💻 <a id="pm">Project Management and PMO works</a> </h2>
+<h2>📆 <a id="pm">Project Management and PMO works</a> </h2>
 
 <h3> Project Management and PMO works</h3>
 
@@ -39,7 +39,7 @@ Acquire knowledge and skills on Data Analytics and Data Science from LinkedIn Le
 - Business consultancy,<b> Authur Andersen</b>
 
 
-<h2> 📚 Certifications</h2>
+<h2>📚 Certifications</h2>
 
 - [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/YD6LW3DY2HXB)
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/H7CEHDTB85ZJ)
