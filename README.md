@@ -7,8 +7,6 @@ Acquire knowledge and skills on Data Analytics and Data Science from LinkedIn Le
 
 - <b>[Operational Excellence](https://1drv.ms/b/s!AiFHj1NlEbBbgZkF-UTsX-Fqd3JtZA)</b>
 - <b>Statistical Analytics:</b>
-  - <a href="https://1drv.ms/b/s!AiFHj1NlEbBbgZkOAeQ2dSp-JNHugg" onclick="window.open(this.href, '_blank'); return false;">Inferential Statistics</a>
-  - <a href="https://1drv.ms/b/s!AiFHj1NlEbBbgZkOAeQ2dSp-JNHugg" target="_blank">Inferential Statistics</a>
   - [Inferential Statistics](https://1drv.ms/b/s!AiFHj1NlEbBbgZkOAeQ2dSp-JNHugg)
   - [Fraud Detection – estimating ROI with ML](https://1drv.ms/b/s!AiFHj1NlEbBbgaR1J461XRn9yRNlzA?e=7g7g6k)
 - <b>Data Visualization projects (in Tableau)</b>
