@@ -1,5 +1,6 @@
-<h1>Hi, I'm Tam Pham! <br/><a href="https://github.com/pmtam-sl">Project Manager</a>, <a href="https://www.linkedin.com/in/pmtam/">Business Analytics</a> </h1>
-<a href="#pm">Project Management</a>
+<h1>Hi, I'm Tam Pham! 
+<br/><a href="https://github.com/pmtam-sl">Project Manager</a>, <a href="https://www.linkedin.com/in/pmtam/">Business Analytics</a> </h1>
+<br/><a href="#pm">Project Management</a>, <a href="https://www.linkedin.com/in/pmtam/">Business Analytics</a> </h1>
 
 <h2>👨‍💻 Transitioning to Business Analytics:</h2>
 
@@ -24,8 +25,7 @@ Acquire knowledge and skills on Data Analytics and Data Science from LinkedIn Le
   - [Employee Attrition Prediction]()
 
 
-<h2>👨‍💻  <a id="pm_works">Project Management and PMO works </a> </h2>
-<h2>👨‍💻<a id="pm">Project Management and PMO works</a> </h2>
+<h2>👨‍💻 <a id="pm">Project Management and PMO works</a> </h2>
 
 <h3> Project Management and PMO works</h3>
 
