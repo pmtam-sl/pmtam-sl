@@ -17,7 +17,7 @@ Acquire knowledge and skills on Data Analytics and Data Science from LinkedIn Le
   - [Telco Customer Churn Prediction](https://1drv.ms/b/s!AiFHj1NlEbBbgZtWT1-DpNOUhv3znQ?e=rDgzCg)
 - <b>Machine Learning with R Programing, Python Programing</b>
   - [Policy Lapse Prediction](http://rpubs.com/pmtam/LapsePrediction_Tidymodels)
-  - [Customer Churn Prediction]((http://rpubs.com/pmtam/CustomerChurn))
+  - [Customer Churn Prediction](http://rpubs.com/pmtam/CustomerChurn)
   - [Employee Attrition Prediction]()
 
 
