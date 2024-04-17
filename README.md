@@ -25,7 +25,7 @@ Acquire knowledge and skills on Data Analytics and Data Science from LinkedIn Le
 
 
 <h2>👨‍💻  <a id="pm_works">Project Management and PMO works </a> </h2>
-<br/><a id="section_below">Project Manager</a>
+<h2> <a id="section_below">Project Manager</a> </h2>
 
 <h3> Project Management and PMO works</h3>
 
