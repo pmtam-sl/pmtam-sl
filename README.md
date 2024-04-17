@@ -24,7 +24,7 @@ Acquire knowledge and skills on Data Analytics and Data Science from LinkedIn Le
   - [Employee Attrition Prediction]()
 
 
-<h2>👨‍💻  <a id="PM_works">Project Manager</a> Project Management and PMO works</h2>
+<h2>👨‍💻  <br/><a id="PM_works">Project Management and PMO works </a> </h2>
 
 
 <h3> Project Management and PMO works</h3>
