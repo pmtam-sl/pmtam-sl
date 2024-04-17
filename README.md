@@ -24,14 +24,16 @@ Acquire knowledge and skills on Data Analytics and Data Science from LinkedIn Le
 <h2>👨‍💻 Project Management and PMO works</h2>
 
 <h3> Project Management and PMO works</h3>
-- <b>Head of PMO, Sunlife Financial Vietnam </b>
-- <b>Head of Delivery, and IT Risk, DMSPro JSC. </b>
-- <b>Head of IT Initiatives and PMO, Prudential Vietnam </b>
+
+- Head of PMO,<b> Sunlife Financial Vietnam </b>
+- Head of Delivery, and IT Risk, <b>DMSPro JSC. </b>
+- Head of IT Initiatives and PMO, <b>Prudential Vietnam </b>
 
 <h3> IT and Business Consultancy works</h3>
-- <b>IT Risk and Assurance, EY Vietnam</b>
-- <b>IT Risk and Advisory, KPMG Vietnam</b>
-- <b>Business consultancy, Authur Andersen</b>
+
+- IT Risk and Assurance,<b> EY Vietnam</b>
+- IT Risk and Advisory,<b> KPMG Vietnam</b>
+- Business consultancy,<b> Authur Andersen</b>
 
 
 <h2> 📚 Certifications</h2>
