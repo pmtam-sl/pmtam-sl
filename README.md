@@ -23,9 +23,16 @@ Acquire knowledge and skills on Data Analytics and Data Science from LinkedIn Le
 
 <h2>👨‍💻 Project Management and PMO works</h2>
 
-<h3></h3>
+<h3> Project Management and PMO works</h3>
+- <b>Head of PMO, Sunlife Financial Vietnam </b>
+- <b>Head of Delivery, and IT Risk, DMSPro JSC. </b>
+- <b>Head of IT Initiatives and PMO, Prudential Vietnam </b>
 
-<h3></h3>
+<h3> IT and Business Consultancy works</h3>
+- <b>IT Risk and Assurance, EY Vietnam</b>
+- <b>IT Risk and Advisory, KPMG Vietnam</b>
+- <b>Business consultancy, Authur Andersen</b>
+
 
 <h2> 📚 Certifications</h2>
 
@@ -37,14 +44,12 @@ Acquire knowledge and skills on Data Analytics and Data Science from LinkedIn Le
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="TamPham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[<img align="left" alt="TamPham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="TamPham | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />][tableau]
+
+
+[tableau]: https://public.tableau.com/app/profile/tam.pham5379/viz/PMT_Profile/Profile
 [linkedin]: https://linkedin.com/in/pmtam
 
 <!--
