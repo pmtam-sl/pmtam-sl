@@ -1,5 +1,5 @@
-<h1>Hi, I'm Tam Pham! </h1>
-<br/><a href="#pm">Project Management</a>, <a href="https://www.linkedin.com/in/pmtam/">Business Analytics</a> 
+<h1>Hi, I'm Tam Pham! 
+<br/><a href="#pm">Project Management</a>, <a href="https://www.linkedin.com/in/pmtam/">Business Analytics</a> </h1>
 
 <h2>👨‍💻 Transitioning to Business Analytics:</h2>
 
@@ -19,7 +19,7 @@ Acquire knowledge and skills in Data Analytics and Data Science from LinkedIn Le
 - <b>Machine Learning with R Programing, Python Programing</b>
   - [Policy Lapse Prediction](http://rpubs.com/pmtam/LapsePrediction_Tidymodels)
   - [Customer Churn Prediction](http://rpubs.com/pmtam/CustomerChurn)
-  - [Employee Attrition Prediction]
+  - Employee Attrition Prediction
 
 
 <h2>📆 <a id="pm">Project Management and PMO works</a> </h2>
