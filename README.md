@@ -1,8 +1,8 @@
-<h1>Hi, I'm Tam Pham! </h1>
+<h2>Hi, I'm Tam Pham! </h2>
 <!--
 <br/><a href="#pm">Project Management</a>, <a href="https://www.linkedin.com/in/pmtam/">Business Analytics</a> -->
 
-<h2>👨‍💻 Transitioning to Business Analytics:</h2>
+<h3>👨‍💻 Transitioning to Business Analytics:</h3>
 
 Acquire knowledge and skills in Data Analytics and Data Science from LinkedIn Learning and Coursera. Key achievements:
 
@@ -24,22 +24,22 @@ Acquire knowledge and skills in Data Analytics and Data Science from LinkedIn Le
   - Customer Segmentation
 
 
-<h2>📆 <a id="pm">Project Management and PMO works</a> </h2>
+<h3>📆 <a id="pm">Project Management and PMO works</a> </h3>
 
-<h3> Project Management and PMO works</h3>
+<h4> Project Management and PMO works</h4>
 
 - Head of PMO,<b> Sunlife Financial Vietnam </b>
 - Head of Delivery, and IT Risk, <b>DMSPro JSC. </b>
 - Head of IT Initiatives and PMO, <b>Prudential Vietnam </b>
 
-<h3> IT and Business Consultancy works</h3>
+<h4> IT and Business Consultancy works</h4>
 
 - IT Risk and Assurance,<b> EY Vietnam</b>
 - IT Risk and Advisory,<b> KPMG Vietnam</b>
 - Business consultancy,<b> Authur Andersen</b>
 
 
-<h2>📚 Certifications</h2>
+<h3>📚 Certifications</h3>
 
 - [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/YD6LW3DY2HXB)
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/H7CEHDTB85ZJ)
@@ -47,7 +47,7 @@ Acquire knowledge and skills in Data Analytics and Data Science from LinkedIn Le
 - [Become a Business Analytics Expert@LinkedIn](https://www.linkedin.com/learning/certificates/9bffd31a53aa303707b072c6dadaaa4a85c8c9b5d5144cee8978607403f2408a?trk=backfilled_certificate)
 - [Master R for Data Science @LinkedIn](https://www.linkedin.com/learning/certificates/95b2e92936858d5c9665a7cbe3d79c39b1859cb2e3d8cd2e3a1f23c5249c3e72)
 
-<h2> 🤳 Connect with me:</h2>
+<h3> 🤳 Connect with me:</h3>
 
 
 [<img align="left" alt="TamPham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
