@@ -6,10 +6,9 @@
 ### 👨‍💻 Transitioning to Business Analytics:
 - After years of experiences in Project Management and Business Process Analysis, I want to challenge myself in a new journey: transitioning to Business Analytics professional where I can apply Business and Data Analytics to explore insightfull data stories to resolve business issue and to support stakeholder making decision.
 - 🌱 I’m currently learning in Data Analytics and Data Science from LinkedIn Learning, Coursera as well as various online resources.
-- 📫 How to reach me:
-   - [My DS portfolio](https://pmtam-sl.rbind.io)
-   - [<img align="left" alt="TamPham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-   - [<img align="left" alt="TamPham | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />][tableau]
+- 📫 How to reach me: [My DS portfolio](https://pmtam-sl.rbind.io) |
+  [<img align="left" alt="TamPham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] |
+  [<img align="left" alt="TamPham | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />][tableau]
 
 
 ### Select resources
