@@ -12,7 +12,7 @@
 
 
 ### Select resources
-- [pmtam-ds](https://pmtam-sl.rbind.io): My DS portfolio
+
 - [Operational Excellence](https://1drv.ms/b/s!AiFHj1NlEbBbgZkF-UTsX-Fqd3JtZA): Discover Operational Excellence frameworkd
 - <b>Statistical Analytics:</b>
   - [Inferential Statistics](https://1drv.ms/b/s!AiFHj1NlEbBbgZkOAeQ2dSp-JNHugg): 
