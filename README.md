@@ -7,12 +7,11 @@
 
 - After years of experiences in Project Management and Business Process Analysis, I want to challenge myself in a new journey: transitioning to Business Analytics professional where I can apply Business and Data Analytics to explore insightfull data stories to resolve business issue and to support stakeholder making decision.
 - 🌱 I’m currently learning in Data Analytics and Data Science from LinkedIn Learning, Coursera as well as various online resources.
-
 - My DS portfolio summarises my Business Analytics transition progress
 
-<h3> Select resources </h3>
+### Select resources
 
-- [pmtam-ds]
+- [pmtam-ds](https://pmtam-sl.rbind.io): My DS portfolio
 - <p><i class="fas fa-envelope"></i> pmtam@yahoo.com</p>
 - <p><i class="fa-brands fa-python"></i> Python</p>
 - <b>[Operational Excellence](https://1drv.ms/b/s!AiFHj1NlEbBbgZkF-UTsX-Fqd3JtZA)</b>
