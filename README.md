@@ -7,8 +7,7 @@
 <h3>👨‍💻 Transitioning to Business Analytics:</h3>
 
 - After years of experiences in Project Management and Business Process Analysis, I want to challenge myself in a new journey: transitioning to Business Analytics professional where I can apply Business and Data Analytics to explore insightfull data stories to resolve business issue and to support stakeholder making decision.
-
--- 🌱 I’m currently learning in Data Analytics and Data Science from LinkedIn Learning, Coursera as well as various online resources.
+- 🌱 I’m currently learning in Data Analytics and Data Science from LinkedIn Learning, Coursera as well as various online resources.
 
 - My DS portfolio summarises my Business Analytics transition progress
 
