@@ -1,5 +1,6 @@
 <h2>Hi, I'm Tam Pham! </h2>
 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
 
 <h3>👨‍💻 Transitioning to Business Analytics:</h3>
 
@@ -7,10 +8,11 @@
 
 - I acquire knowledge and skills in Data Analytics and Data Science from LinkedIn Learning, Coursera as well as various online resources.
 
-- My DS portfolio summarises my Business Analytics progress
+- My DS portfolio summarises my Business Analytics transition progress
 
 <h3> Select resources </h3>
 
+- [pmtam-ds]
 - <b>[Operational Excellence](https://1drv.ms/b/s!AiFHj1NlEbBbgZkF-UTsX-Fqd3JtZA)</b>
 - <b>Statistical Analytics:</b>
   - [Inferential Statistics](https://1drv.ms/b/s!AiFHj1NlEbBbgZkOAeQ2dSp-JNHugg)
