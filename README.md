@@ -14,7 +14,7 @@
 
 - [pmtam-ds]
 - <p><i class="fas fa-envelope"></i> pmtam@yahoo.com</p>
-- <i class="fa-brands fa-python"></i> Python
+- <p><i class="fa-brands fa-python"></i> Python</p>
 - <b>[Operational Excellence](https://1drv.ms/b/s!AiFHj1NlEbBbgZkF-UTsX-Fqd3JtZA)</b>
 - <b>Statistical Analytics:</b>
   - [Inferential Statistics](https://1drv.ms/b/s!AiFHj1NlEbBbgZkOAeQ2dSp-JNHugg)
