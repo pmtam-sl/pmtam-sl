@@ -13,6 +13,7 @@
 <h3> Select resources </h3>
 
 - [pmtam-ds]
+- <i class="fa-brands fa-python"></i> Python
 - <b>[Operational Excellence](https://1drv.ms/b/s!AiFHj1NlEbBbgZkF-UTsX-Fqd3JtZA)</b>
 - <b>Statistical Analytics:</b>
   - [Inferential Statistics](https://1drv.ms/b/s!AiFHj1NlEbBbgZkOAeQ2dSp-JNHugg)
