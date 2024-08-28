@@ -1,10 +1,15 @@
 <h2>Hi, I'm Tam Pham! </h2>
-<!--
-<br/><a href="#pm">Project Management</a>, <a href="https://www.linkedin.com/in/pmtam/">Business Analytics</a> -->
+
 
 <h3>👨‍💻 Transitioning to Business Analytics:</h3>
 
-Acquire knowledge and skills in Data Analytics and Data Science from LinkedIn Learning and Coursera. Key achievements:
+- After years of experiences in Project Management and Business Process Analysis, I want to challenge myself in a new journey: transitioning to Business Analytics professional where I can apply Business and Data Analytics to explore insightfull data stories to resolve business issue and to support stakeholder making decision.
+
+- I acquire knowledge and skills in Data Analytics and Data Science from LinkedIn Learning, Coursera as well as various online resources.
+
+- My DS portfolio summarises my Business Analytics progress
+
+<h3> Select resources </h3>
 
 - <b>[Operational Excellence](https://1drv.ms/b/s!AiFHj1NlEbBbgZkF-UTsX-Fqd3JtZA)</b>
 - <b>Statistical Analytics:</b>
