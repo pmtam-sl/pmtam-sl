@@ -1,12 +1,14 @@
 <h2>Hi, I'm Tam Pham! </h2>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+<body>
+<p><i class="fas fa-envelope"></i> pmtam@yahoo.com</p>
 
 <h3>👨‍💻 Transitioning to Business Analytics:</h3>
 
 - After years of experiences in Project Management and Business Process Analysis, I want to challenge myself in a new journey: transitioning to Business Analytics professional where I can apply Business and Data Analytics to explore insightfull data stories to resolve business issue and to support stakeholder making decision.
 
-- I acquire knowledge and skills in Data Analytics and Data Science from LinkedIn Learning, Coursera as well as various online resources.
+-- 🌱 I’m currently learning in Data Analytics and Data Science from LinkedIn Learning, Coursera as well as various online resources.
 
 - My DS portfolio summarises my Business Analytics transition progress
 
@@ -33,31 +35,8 @@
   - Customer Segmentation
 
 
-<h3>📆 <a id="pm">Project Management and PMO works</a> </h3>
-
-<h4> Project Management and PMO works</h4>
-
-- Head of PMO,<b> Sunlife Financial Vietnam </b>
-- Head of Delivery, and IT Risk, <b>DMSPro JSC. </b>
-- Head of IT Initiatives and PMO, <b>Prudential Vietnam </b>
-
-<h4> IT and Business Consultancy works</h4>
-
-- IT Risk and Assurance,<b> EY Vietnam</b>
-- IT Risk and Advisory,<b> KPMG Vietnam</b>
-- Business consultancy,<b> Authur Andersen</b>
-
-
-<h3>📚 Certifications</h3>
-
-- [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/YD6LW3DY2HXB)
-- [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/H7CEHDTB85ZJ)
-- [Develop Your SPSS Skills @LinkedIn](https://www.linkedin.com/learning/certificates/2f8884025cbba9abe67dc9ca040653047abd12dd99f8d9e67d97038b0af55538)
-- [Become a Business Analytics Expert@LinkedIn](https://www.linkedin.com/learning/certificates/9bffd31a53aa303707b072c6dadaaa4a85c8c9b5d5144cee8978607403f2408a?trk=backfilled_certificate)
-- [Master R for Data Science @LinkedIn](https://www.linkedin.com/learning/certificates/95b2e92936858d5c9665a7cbe3d79c39b1859cb2e3d8cd2e3a1f23c5249c3e72)
-
 <h3> 🤳 Connect with me:</h3>
-
+- 👯 I’m looking to collaborate on Data An
 
 [<img align="left" alt="TamPham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TamPham | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />][tableau]
