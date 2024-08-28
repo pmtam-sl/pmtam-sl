@@ -3,7 +3,7 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
 <body>
 <p><i class="fas fa-envelope"></i> pmtam@yahoo.com</p>
-
+</body>
 ### 👨‍💻 Transitioning to Business Analytics:
 
 - After years of experiences in Project Management and Business Process Analysis, I want to challenge myself in a new journey: transitioning to Business Analytics professional where I can apply Business and Data Analytics to explore insightfull data stories to resolve business issue and to support stakeholder making decision.
