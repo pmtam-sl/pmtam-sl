@@ -28,16 +28,6 @@
   - Employee Attrition Prediction
   - Customer Segmentation
 
-
-<h4> Connect with me:</h4>
-
-[<img align="left" alt="TamPham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="TamPham | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />][tableau]
-
-
-[tableau]: https://public.tableau.com/app/profile/tam.pham5379/viz/PMT_Profile/Profile
-[linkedin]: https://linkedin.com/in/pmtam
-
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
