@@ -29,8 +29,7 @@
   - Customer Segmentation
 
 
-<h3> 🤳 Connect with me:</h3>
-- 👯 I’m looking to collaborate on Data An
+<h4> Connect with me:</h4>
 
 [<img align="left" alt="TamPham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TamPham | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />][tableau]
