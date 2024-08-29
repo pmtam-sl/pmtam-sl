@@ -10,6 +10,10 @@
 - 📫 <b>Connect with me:</b> Explore my [Data Science portfolio](https://pmtam-sl.rbind.io) | or on <a href="https://www.linkedin.com/in/pmtam/">
   <img alt="Tam Pham's LinkedIn" width="22px" src=""https://cdn.jsdelivr.net/npm/simple-iconsc@v3/icons/linkedin.svg" />
 </a>
+
+<a href="https://linkedin.com/in/pmtam/">
+  <img align="left" alt="TamPham's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 - <p> [<img alt="TamPham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-iconsc@v3/icons/linkedin.svg" />](https://linkedin.com/in/pmtam) </p>
 
 ### Select resources
