@@ -13,10 +13,10 @@ With years of experience in Project Management and Business Process Analysis, I'
 
 ### Select resources
 
-- [Operational Excellence](https://1drv.ms/b/s!AiFHj1NlEbBbgZkF-UTsX-Fqd3JtZA): Discover Operational Excellence frameworkd
+- [Operational Excellence](https://1drv.ms/b/s!AiFHj1NlEbBbgZkF-UTsX-Fqd3JtZA): Discover Operational Excellence framework.
 - <b>Statistical Analytics:</b>
-  - [Inferential Statistics](https://1drv.ms/b/s!AiFHj1NlEbBbgZkOAeQ2dSp-JNHugg): 
-  - [Fraud Detection – estimating ROI with ML](https://1drv.ms/b/s!AiFHj1NlEbBbgaR1J461XRn9yRNlzA?e=7g7g6k)
+  - [Inferential Statistics](https://1drv.ms/b/s!AiFHj1NlEbBbgZkOAeQ2dSp-JNHugg): Using inferential analysis to draw conclusion or make prediction based on a sample data.
+  - [Fraud Detection](https://1drv.ms/b/s!AiFHj1NlEbBbgaR1J461XRn9yRNlzA?e=7g7g6k): Estimating ROI with Machine Learning.
 - <b>Data Visualization projects (using Tableau)</b>
   - [Vietnam Insurance Market Overview](https://public.tableau.com/views/QuickViewSep2020/QuickViewDB?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
   - [Executive Committee Dashboard](https://public.tableau.com/views/EXCO5/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
