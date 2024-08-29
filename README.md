@@ -6,7 +6,7 @@
 ### 👨‍💻 Transitioning to Business Analytics:
 
 - With years of experience in Project Management and Business Process Analysis, I'm now embarking on an exciting journey to become a Business Analytics professional. I aim to leverage both Business and Data Analytics to uncover insightful data stories, solve business challenges, and support stakeholders in making informed decisions.
-- 🌱  I’m actively learning Data Analytics and Data Science through platforms like LinkedIn Learning, Coursera, and various other online resources.
+- 🌱  I’m actively learning Data Analytics and Data Science through platforms like LinkedIn Learning, Coursera, and various other online resources. This GitHub repo is to store my learning projects in this tranitioning.
 - 📫 <b>Connect with me:</b> Explore my [Data Science portfolio](https://pmtam-sl.rbind.io) | or on <a href="https://linkedin.com/in/pmtam/"><img src="LI-Logo.png" alt="LinkedIn" width = "70px"/></a> , <a href="https://public.tableau.com/app/profile/tam.pham5379/viz/PMT_Profile/Profile"><img src="Tableau_Logo.png" alt="Tableau" width = "70px"/></a>
 
 ### Select resources
