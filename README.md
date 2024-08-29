@@ -9,7 +9,7 @@ With years of experience in Project Management and Business Process Analysis, I'
 
 🌱  I’m actively learning Data Analytics and Data Science through platforms like LinkedIn Learning, Coursera, and various other online resources. This GitHub repository serves as a collection of my learning projects during this transition.
 
-📫 <b>Connect with me:</b> Explore my [Data Science portfolio](https://pmtam-sl.rbind.io) , connect with me on <a href="https://linkedin.com/in/pmtam/"><img src="LI-Logo.png" alt="LinkedIn" width = "70px"/></a> , or check out my work on <a href="https://public.tableau.com/app/profile/tam.pham5379/viz/PMT_Profile/Profile"><img src="Tableau_Logo.png" alt="Tableau" width = "80px"/></a>.
+📫 <b>Connect with me:</b> Explore my [Data Science portfolio](https://pmtam-sl.rbind.io) , connect with me on <a href="https://linkedin.com/in/pmtam/"><img src="LI-Logo.png" alt="LinkedIn" width = "70px"/></a> , or check out my profile on <a href="https://public.tableau.com/app/profile/tam.pham5379/viz/PMT_Profile/Profile"><img src="Tableau_Logo.png" alt="Tableau" width = "80px"/></a>.
 
 ### Select resources
 
