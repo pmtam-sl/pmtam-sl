@@ -27,8 +27,8 @@ With years of experience in Project Management and Business Process Analysis, I'
 - <b>Machine Learning with R Programing, Python Programing</b>
   - [Policy Lapse Prediction](http://rpubs.com/pmtam/LapsePrediction_Tidymodels)
   - [Customer Churn Prediction](http://rpubs.com/pmtam/CustomerChurn)
-  - Employee Attrition Prediction
-  - Customer Segmentation
+  - [Employee Attrition Prediction](https://github.com/pmtam-sl/HR_Attrition)
+  - [Customer Segmentation](https://github.com/pmtam-sl/Customer_Segmentation)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
